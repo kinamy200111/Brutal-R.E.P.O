@@ -1,3 +1,5 @@
+For suggest and bugs report use "Issues"
+
 # Brutal R.E.P.O
 
 Analog Brutal Company for R.E.P.O
